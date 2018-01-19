@@ -7,4 +7,4 @@
 # How to learn GO? 
 * Go by Example : https://gobyexample.com
 * Go Tutorials by sentdex : https://pythonprogramming.net/go/introduction-go-language-programming-tutorial 
-* Code of theses Tutorials commented in the code section of this GitHub. 
+* Code of theses Tutorials commented in the code section of this GitHub : https://github.com/MagaliDrumare/MagaliDrumare-How-to-learn-GO-Programming-/blob/master/01_%20WebAppSentdex.zip
